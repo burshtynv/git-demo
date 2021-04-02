@@ -5,8 +5,11 @@ asdasdasvch2187
 dsfsdfsd
 sdfsdfdsfsdfsdf
 benq
+<<<<<<< HEAD
 
 
 some content1
 and herh
 ___________________________________
+=======
+>>>>>>> 476106685b48850ea143c460f95ec14b72f57345
